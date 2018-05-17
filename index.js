@@ -23,10 +23,12 @@ function johnLennonFacts(array) {
 
 function iLoveTheBeatles(n) {
    var array = []
+   var i = 0
    do {
-     i = 0
      array[i] = "I love the Beetles!"
      n++
      i++
+     console.log(array)
    } while (n < 15)
+     return array
 }

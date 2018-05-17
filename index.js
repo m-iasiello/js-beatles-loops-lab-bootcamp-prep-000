@@ -24,7 +24,9 @@ function johnLennonFacts(array) {
 function iLoveTheBeatles(n) {
    var array = []
    do {
-     array[n] = "I love the Beetles!"
+     i = 0
+     array[i] = "I love the Beetles!"
      n++
+     i++
    } while (n < 15)
 }

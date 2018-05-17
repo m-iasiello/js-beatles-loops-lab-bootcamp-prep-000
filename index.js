@@ -25,7 +25,7 @@ function iLoveTheBeatles(n) {
    var array = []
    var i = 0
    do {
-     array[i] = "I love the Beetles!"
+     array[i] = "I love the Beatles!"
      n++
      i++
      console.log(array)

@@ -20,3 +20,11 @@ function johnLennonFacts(array) {
   array = array1
   return array
 }
+
+function iLoveTheBeatles(n) {
+   var array = []
+   do {
+     array[i] = "I love the Beetles!"
+     n++
+   } while (n < 15)
+}
